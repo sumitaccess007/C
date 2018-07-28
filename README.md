@@ -1,1 +1,2 @@
-# C-with-Eclipse
+# C
+C and C++ with Eclipse
